@@ -1,0 +1,14 @@
+D:\baitapbuoi2\Buoi2\Buoi2\bin\Debug\netcoreapp3.1\Buoi2.exe
+D:\baitapbuoi2\Buoi2\Buoi2\bin\Debug\netcoreapp3.1\Buoi2.deps.json
+D:\baitapbuoi2\Buoi2\Buoi2\bin\Debug\netcoreapp3.1\Buoi2.runtimeconfig.json
+D:\baitapbuoi2\Buoi2\Buoi2\bin\Debug\netcoreapp3.1\Buoi2.runtimeconfig.dev.json
+D:\baitapbuoi2\Buoi2\Buoi2\bin\Debug\netcoreapp3.1\Buoi2.dll
+D:\baitapbuoi2\Buoi2\Buoi2\bin\Debug\netcoreapp3.1\Buoi2.pdb
+D:\baitapbuoi2\Buoi2\Buoi2\obj\Debug\netcoreapp3.1\Buoi2.csproj.AssemblyReference.cache
+D:\baitapbuoi2\Buoi2\Buoi2\obj\Debug\netcoreapp3.1\Buoi2.GeneratedMSBuildEditorConfig.editorconfig
+D:\baitapbuoi2\Buoi2\Buoi2\obj\Debug\netcoreapp3.1\Buoi2.AssemblyInfoInputs.cache
+D:\baitapbuoi2\Buoi2\Buoi2\obj\Debug\netcoreapp3.1\Buoi2.AssemblyInfo.cs
+D:\baitapbuoi2\Buoi2\Buoi2\obj\Debug\netcoreapp3.1\Buoi2.csproj.CoreCompileInputs.cache
+D:\baitapbuoi2\Buoi2\Buoi2\obj\Debug\netcoreapp3.1\Buoi2.dll
+D:\baitapbuoi2\Buoi2\Buoi2\obj\Debug\netcoreapp3.1\Buoi2.pdb
+D:\baitapbuoi2\Buoi2\Buoi2\obj\Debug\netcoreapp3.1\Buoi2.genruntimeconfig.cache
